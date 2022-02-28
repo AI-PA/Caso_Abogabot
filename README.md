@@ -1,6 +1,4 @@
 # Bienvenidos a Caso Abogabot 🤖💼. 
- <img src="./Logo/Logo.png" alt="Abogabot" height="400">
-
 ## Resumen del proyecto: 
 Esta proyecto consta de una introdduccion a la programación web por parate Microsoft , Innovacion virual LaunchX a traves del diseño ux , ui de una compañia de abogados que necesitan tanto una pagina web como un sistema de desarrollo que les permita dar seguimiento a los casos de los clientes y que los clientes puedan registrarse en el sitio.
 Me encargue de crear el logo, buyer persona, el diseño del sitio en ux y ui y por ultimo el flujo de trabajo. (fue muy divertido hacer todo esto en una semana xd). 
@@ -9,6 +7,9 @@ Me encargue de crear el logo, buyer persona, el diseño del sitio en ux y ui y p
 - [Publico objetivo](https://miro.com/app/board/uXjVOJlztQg=/?invite_link_id=226487836902)
 - [Wireframe Ux](https://www.figma.com/file/3x9j7TMwreiofD6AUVh52m/Caso-Abogabot?node-id=0%3A1)
 - [UI](https://www.figma.com/file/3x9j7TMwreiofD6AUVh52m/Caso-Abogabot?node-id=0%3A1)
+
+ <img src="./Logo/Logo.png" alt="Abogabot" height="400">
+ 
 ### Creditos:  
 quisiera dejar esta seccion a las paginas web que me ayudaron a desarrollar este proyecto a manera de tributo por el materia o informacion dada en formato apa ("porque apa ?, R.- porque ya estoy traumado con ese formato .-.")
 
