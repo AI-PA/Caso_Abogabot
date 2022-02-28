@@ -4,7 +4,7 @@
 Esta proyecto consta de una introdduccion a la programación web por parate Microsoft , Innovacion virual LaunchX a traves del diseño ux , ui de una compañia de abogados que necesitan tanto una pagina web como un sistema de desarrollo que les permita dar seguimiento a los casos de los clientes y que los clientes puedan registrarse en el sitio.
 Me encargue de crear el logo, buyer persona, el diseño del sitio en ux y ui y por ultimo el flujod trabajo. (fue muy divertido hacer todo esto en una semana xd). 
 - [Toma de requerimientos](1.-Reqierimientos.doc)
-- [Buyer persona](Buyer persona.pdf)
+- [Buyer persona](Buyer_persona.pdf) 
 - [Publico objetivo](https://miro.com/app/board/uXjVOJlztQg=/?invite_link_id=226487836902)
 - [Wireframe Ux](https://www.figma.com/file/3x9j7TMwreiofD6AUVh52m/Caso-Abogabot?node-id=0%3A1)
 - [UI](https://www.figma.com/file/3x9j7TMwreiofD6AUVh52m/Caso-Abogabot?node-id=0%3A1)
