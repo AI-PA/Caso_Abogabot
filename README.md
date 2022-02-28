@@ -21,7 +21,4 @@ quisiera dejar esta seccion a las paginas web que me ayudaron a desarrollar este
 
 ‌- Behance. (2022). Behance.net. https://www.behance.net/gallery/49527587/Wikipedia-Conceptual-Function?tracking_source=search_projects%7Cwikipedia
 
-‌
-‌
-‌
 
